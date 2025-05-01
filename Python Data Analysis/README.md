@@ -1,4 +1,4 @@
-# This repository contains code examples for Data Analysis using Python
+# This repository contains code examples for Data analysis using Python
 
 
 ## About this repository
