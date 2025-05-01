@@ -18,5 +18,5 @@ These examples were run using Jupyter notebooks.
 
 ### Data Files
 
-The datasets required for running the examples are included within the repository, often in a `datasets` directory.
+The datasets required for running the examples are included within the`datasets` directory.
 
