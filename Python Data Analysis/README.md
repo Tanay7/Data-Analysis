@@ -12,7 +12,7 @@ These examples were run using Jupyter notebooks.
 
 ### Prerequisites
 
-* Python 3.9 or higher (the book is updated for 3.10).
+* Python 3.9 or higher.
 * Anaconda for managing packages and environments.
 
 
